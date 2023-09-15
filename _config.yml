@@ -18,9 +18,9 @@ paginate: 5
 
 navigation:
     - title: Home
-      url: "index.html"
+      url: "/"
     - title: About
-      url: "about/index.html"
+      url: "about/"
 
 social:
     github: jct03
