@@ -18,9 +18,9 @@ paginate: 5
 
 navigation:
     - title: Home
-      url: csci340lab5/index.html
+      url: index.html
     - title: About
-      url: /about/index.html
+      url: csci340lab5/about/index.html
 
 social:
     github: jct03
