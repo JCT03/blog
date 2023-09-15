@@ -18,9 +18,9 @@ paginate: 5
 
 navigation:
     - title: Home
-      url: "{{ '/' | prepend: site.url }}"
+      url: "https://jct03.github.io/csci340lab5/"
     - title: About
-      url: "{{ '/about/' | prepend: site.url }}"
+      url: "https://jct03.github.io/csci340lab5/about"
 
 social:
     github: jct03
