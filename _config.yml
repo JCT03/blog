@@ -1,5 +1,5 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS
+title: My Awesome Blog
+description: This is my awesome blog with a very detailed, specific description.
 
 url: https://long-haul.netlify.app
 paginate_path: "blog/page:num/"
@@ -21,17 +21,9 @@ navigation:
       url: /index.html
     - title: About
       url: /about
-    - title: Contact
-      url: /contact
 
 social:
-    github: brianmaierjr
-    twitter: brianmaierjr
-    facebook: brianmaierjr
-    email: brimaidesigns@gmail.com
-    linkedin: brianmaierjr
+    github: jct03
+    email: colliertenisonjt@hendrix.edu
+    linkedin: jacob-collier-tenison
 
-google_analytics: "UA-58263416-1"
-
-disqus:
-    shortname: brianmaierjr
