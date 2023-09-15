@@ -20,7 +20,7 @@ navigation:
     - title: Home
       url: "{{ '/' | prepend: site.url }}"
     - title: About
-      url: "{{ 'about/' | prepend: site.url }}"
+      url: "{{ '/about/' | prepend: site.url }}"
 
 social:
     github: jct03
