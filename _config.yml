@@ -1,9 +1,9 @@
 title: My Awesome Blog
 description: This is my awesome blog with a very detailed, specific description.
 
-url: "https://jct03.github.io/csci340lab5"
-paginate_path: "/blog/page:num/"
-permalink: "/blog/:title/"
+url: "https://jct03.github.io"
+paginate_path: "csci340lab5/blog/page:num/"
+permalink: "csci340lab5/blog/:title/"
 
 # Header Option
 # header: large
@@ -18,9 +18,9 @@ paginate: 5
 
 navigation:
     - title: Home
-      url: "index.html"
+      url: "csci340lab5/index.html"
     - title: About
-      url: "about/index.html"
+      url: "csci340lab5/about/index.html"
 
 social:
     github: jct03
