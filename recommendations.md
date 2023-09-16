@@ -6,7 +6,7 @@ title: Recommendations
 
 ### Restaurants in Little Rock
 - Kemuri
-- Don Pepe's
+- Big Orange
 - El Sur
 - Three Fold
 
