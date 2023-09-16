@@ -21,6 +21,8 @@ navigation:
       url: "/"
     - title: About
       url: "about"
+    - title: Recommendations
+      url: "recommendations"
 
 social:
     github: jct03
