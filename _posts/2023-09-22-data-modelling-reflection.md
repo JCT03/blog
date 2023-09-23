@@ -4,29 +4,29 @@ title: "Data Modelling Reflection"
 author:
 - Jacob Collier-Tenison
 ---
-In order to model the date, I made the following assumptions:
+In order to model the data, I made the following assumptions:
 
-- Each customer will create an account under a unique phone number
+- Each customer will create an account under a unique phone number.
 
 This allows the phone number to be used as a primary key, but would not allow customers who share a number (such as a home phone) to have their own accounts under that number.
 
-- An employee of the grocery store will fufill each order by hand
+- An employee of the grocery store will fufill each order by hand.
 
 This meant that I needed to include emplyess in the database so that they could be assigned to fufill an order. 
 
-- Each employee is assigned a unique ID
+- Each employee is assigned a unique ID.
 
 This allowed me to use the employee id as a unique identifier for the employees.
 
-- The final price will be determined when the order is fuffiled to allow for any substitutions or out of stock items
+- The final price will be determined when the order is fuffiled to allow for any substitutions or out of stock items.
 
 This mean that the final price would not be attached to the order itself, but to the fuffillment of that order, since it is subject to the in-store availability which could differ from that on the website due to customers in the store. 
 
-- A customer will pay using the store's normal methods, not online
+- A customer will pay using the store's normal methods, not online.
 
 This means that no payment method is needed in the database.
 
-- A unique order number will be generated for each order
+- A unique order number will be generated for each order.
 
 Doing this allows that number to be used as the primary key for the order.
 
